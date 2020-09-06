@@ -1,0 +1,2 @@
+# ScraperPlayground
+Learning Puppeteer
